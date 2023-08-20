@@ -1,2 +1,2 @@
 # delta-demo
-This repo is for web dev projects
+This repo is for my web dev projects.
